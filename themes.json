@@ -1,5 +1,9 @@
 [
   {
+    "owner": "rosstopping",
+    "name": "tailwindcss-templates"
+  },
+  {
     "owner": "cruip",
     "name": "tailwind-landing-page-template"
   },
@@ -10,5 +14,13 @@
   {
     "owner": "tailwindtoolbox",
     "name": "Landing-Page"
+  },
+  {
+    "owner": "davidgrzyb",
+    "name": "tailwind-admin-template"
+  },
+  {
+    "owner": "robbins23",
+    "name": "daisyui-admin-dashboard-template"
   }
 ]
