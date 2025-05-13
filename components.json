@@ -1,5 +1,9 @@
 [
   {
+    "owner": "tushargugnani",
+    "name": "tailwind-stamps"
+  },
+  {
     "owner": "merakiuilabs",
     "name": "merakiui"
   },
@@ -50,5 +54,21 @@
   {
     "owner": "EasyFrontendHQ",
     "name": "html-tailwindcss-components"
+  },
+  {
+    "owner": "lukin",
+    "name": "keywind"
+  },
+  {
+    "owner": "praveenjuge",
+    "name": "myna"
+  },
+  {
+    "owner": "GalsenDev221",
+    "name": "galsen.ui"
+  },
+  {
+    "owner": "frontendfunn",
+    "name": "tailwind-components-navigation-bar"
   }
 ]
