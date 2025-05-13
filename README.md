@@ -1,4 +1,4 @@
-# Tailwindtemplates.dev submission
+# [Tailwindtemplates.dev](https://www.tailwindtemplates.dev) submission
 
 - fork the [repo](https://github.com/sharu725/tailwindtemplates)
 - add a theme or resource to `theme.json` or `components.json` respectively.
