@@ -4,20 +4,16 @@
     "name": "tailwindcss-templates"
   },
   {
+    "owner": "davidgrzyb",
+    "name": "tailwind-admin-template"
+  },
+  {
     "owner": "cruip",
     "name": "tailwind-landing-page-template"
   },
   {
-    "owner": "cruip",
-    "name": "tailwind-dashboard-template"
-  },
-  {
     "owner": "tailwindtoolbox",
     "name": "Landing-Page"
-  },
-  {
-    "owner": "davidgrzyb",
-    "name": "tailwind-admin-template"
   },
   {
     "owner": "robbins23",
